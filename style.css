@@ -1,0 +1,7 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(img/cidadeCrz.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
